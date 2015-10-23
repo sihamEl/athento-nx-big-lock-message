@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-Vendor: Athento
+Bundle-ActivationPolicy: lazy
+Bundle-ClassPath: .
+Bundle-Version: 1.0.qualifier
+Bundle-Name: title_with_permlink
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: title_with_permlink
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+
