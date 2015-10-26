@@ -11,6 +11,6 @@ You just have to compile the pom.xml using Maven and deploy the plugin in. To do
 
 	cd athento-nx-big-lock-message
 	mvn clean install
-	cp target/athento-nx-user-anonimize-*.jar $NUXEO_HOME/nxserver/plugins
+	cp target/athento-nx-big-lock-message-*.jar $NUXEO_HOME/nxserver/plugins
 
 And then, restart your nuxeo server and enjoy.
