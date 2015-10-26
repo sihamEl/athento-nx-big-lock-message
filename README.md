@@ -9,7 +9,7 @@ This plugin shows a big lock message.
 
 You just have to compile the pom.xml using Maven and deploy the plugin in. To do this, you must use the following script:
 
-	cd athento-nx-user-anonimize
+	cd athento-nx-big-lock-message
 	mvn clean install
 	cp target/athento-nx-user-anonimize-*.jar $NUXEO_HOME/nxserver/plugins
 
