@@ -1,10 +1,10 @@
 Manifest-Version: 1.0
 Bundle-Vendor: Athento
 Bundle-ActivationPolicy: lazy
-Bundle-ClassPath: .
-Bundle-Version: 1.0.qualifier
-Bundle-Name: title_with_permlink
+Bundle-ClassPath: 
+Bundle-Version: 1.0.0
+Bundle-Name: Athento NX Big Lock Message
 Bundle-ManifestVersion: 2
-Bundle-SymbolicName: title_with_permlink
+Bundle-SymbolicName: athento-nx-big-lock-message
 Bundle-RequiredExecutionEnvironment: JavaSE-1.7
 
